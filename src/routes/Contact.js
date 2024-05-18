@@ -1,6 +1,6 @@
 import Navbar from '../components/Navbar'
 import Heroimg4 from '../components/Heroimg4'
-import React, { useRef } from 'react';
+import React from 'react';
 import Forms from '../components/Forms'
 
 
